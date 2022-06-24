@@ -16,3 +16,4 @@ dependencies:
     - tensorboard==2.9.1
     - efficientnet-pytorch==0.7.0
     - albumentations==0.4.6
+    - pkbar==0.5
